@@ -1,0 +1,32 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "node爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzs/node-spider.git"
+  },
+  "keywords": [
+    "node",
+    "spider",
+    "crawler"
+  ],
+  "author": {
+    "name": "小雷",
+    "email": "863837949@qq.com",
+    "url": "https://github.com/zzzs"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzzs/node-spider/issues"
+  },
+  "homepage": "https://github.com/zzzs/node-spider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.8.3"
+  }
+}
